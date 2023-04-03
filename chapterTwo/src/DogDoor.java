@@ -17,5 +17,9 @@ public class DogDoor{
         this.open = false;
     }
 
+    public void barkRecognition(){
+        open();
+    }
+
 
 }

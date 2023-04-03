@@ -10,7 +10,7 @@
   1. Write software that do what the client need it do.
   2. Apply some OOP princibles to be well designed and easy to maintain.
   3. Make it reusable and maintainable.
-  
+
   ### Bullet Points
 
   * It takes very little for something to go wrong with an application that is fragile.
@@ -66,7 +66,7 @@
 
 
 
-### Chapter four
+## Chapter four
    1. Write use case
    2. Nouns in the use case are usually used as classes
-   3. verbs in the use case are usually used as methods 
+   3. verbs in the use case are usually used as methods
