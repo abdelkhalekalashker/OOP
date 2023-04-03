@@ -2,16 +2,16 @@ import java.util.LinkedList;
 
 public class BarkRecognizer {
     private DogDoor door;
-    private LinkedList <String> bark;
+    private LinkedList <String> allowedBarks;
 
     public BarkRecognizer(DogDoor door, LinkedList <String> bark) {
         this.door = door;
-        this.bark = bark;
+        this.allowedBarks = bark;
     }
 
     public void recognize(String bark){
-        for (String owner : this.bark) {
-            if(owner == bark){
+        for (String allowedBark : this.allowedBarks) {
+            if(allowedBark == bark){
                 door.open();
                 return;
             }
