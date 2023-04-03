@@ -63,3 +63,10 @@
    * Your system must work in the real world, not just when everything goes as you expect it to.
 
    * When things go wrong, your system must have alternate paths to reach the system’s goals.
+
+
+
+### Chapter four
+   1. Write use case
+   2. Nouns in the use case are usually used as classes
+   3. verbs in the use case are usually used as methods 
