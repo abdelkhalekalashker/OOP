@@ -4,6 +4,8 @@
 # Table of Contents
 * [Chapter One](#chapter-one)
 * [Chapter Two](#chapter-two)
+* [Chapter Three](#chapter-three)
+* [Chapter Four](#chapter-four)
 
 ## Chapter One
 
@@ -70,3 +72,26 @@
    1. Write use case
    2. Nouns in the use case are usually used as classes
    3. verbs in the use case are usually used as methods
+   
+   ### BULLET POINTS
+* Analysis helps you ensure that your software works in the real world context, and not just in a perfect environment.
+
+* Use cases are meant to be understood by you, your managers, your customers, and other programmers.
+
+* You should write your use cases in whatever format makes them most usable to you and the other people who are looking at them.
+
+* A good use case precisely lays out what a system does, but does not indicate how the system accomplishes that task.
+
+* Each use case should focus on only one customer goal. If you have multiple goals, you will need to write multiple use cases.
+
+* Class diagrams give you an easy way to show your system and its code constructs at a 10,000-foot view.
+
+* The attributes in a class diagram usually map to the member variables of your classes.
+
+* The operations in a class diagram usually represent the methods of your classes.
+
+* Class diagrams leave lots of detail out, such as class constructors, some type information, and the purpose of operations on your classes.
+
+* Textual analysis helps you translate a use case into code-level classes, attributes, and operations.
+
+* The nouns of a use case are candidates for classes in your system, and the verbs are candidates for methods on your system’s classes.
