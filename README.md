@@ -72,7 +72,7 @@
    1. Write use case
    2. Nouns in the use case are usually used as classes
    3. verbs in the use case are usually used as methods
-   
+
    ### BULLET POINTS
 * Analysis helps you ensure that your software works in the real world context, and not just in a perfect environment.
 
@@ -95,3 +95,35 @@
 * Textual analysis helps you translate a use case into code-level classes, attributes, and operations.
 
 * The nouns of a use case are candidates for classes in your system, and the verbs are candidates for methods on your system’s classes.
+
+
+## Chapter six
+
+1. You can solve a big problem by breaking it into lots of functional pieces, and then working on each of those pieces individually.
+
+2. 1. One way you can find out more about a system is to figure out what the system is like. In other words, are there some things that you do know about that the system functions or behaves like?  (commonality)
+
+2. 2. Another great way to find out what a system should do is to figure out what it’s not like. This helps you determine what you don’t need to worry about in your system. (variability)
+
+3. Use case is for both developers and customer
+
+4. analysis Domain analysis is representing a system in language that the customer will understand.
+
+5. The feature is the big picture of thing that sysytem does and consists of requirements.
+
+### BULLET POINTS
+* The best way to look at a big problem is to view it as a collection of smaller problems.
+
+* Just like in small projects, start working on big projects by gathering features and requirements.
+
+* Features are usually “big” things that a system does, but also can be used interchangeably with the term “requirements.”
+
+* Commonality and variability give you points of comparison between a new system and things you already know about.
+
+* Use cases are detail-oriented; use case diagrams are focused more on the big picture.
+
+* Your use case diagram should account for all the features in your system.
+
+* Domain analysis is representing a system in language that the customer will understand.
+
+* An actor is anything that interacts with your system, but isn’t part of the system.
