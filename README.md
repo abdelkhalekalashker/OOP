@@ -6,6 +6,7 @@
 * [Chapter Two](#chapter-two)
 * [Chapter Three](#chapter-three)
 * [Chapter Four](#chapter-four)
+* [Chapter Six](#chapter-six)
 
 ## Chapter One
 
